@@ -17,6 +17,8 @@ A simple calculator built using Python that performs basic arithmetic operations
 
 ## How to Run
 
+## How to Run
+
 1. Clone this repository:
 
    ```bash

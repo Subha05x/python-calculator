@@ -48,8 +48,15 @@ Choose an operation:
 2. Subtraction(-)
 3. Multiplication(*)
 4. Division(/)
+## Example
 
-Enter the operation: +
+```text
+Enter First Number: 10
+Enter Second Number: 5
+Result: 15.0
+
+
+Enter the operation = (1 - 4) or '+' or '-'or '*' '/': +
 Result: 15.0
 ```
 

@@ -1,5 +1,3 @@
-# python-calculator
-A simple Python calculator using functions and conditional statements
 # Python Calculator
 
 A simple calculator built using Python that performs basic arithmetic operations. This is my beginner Python project, created to practice functions, conditional statements, and user input.
